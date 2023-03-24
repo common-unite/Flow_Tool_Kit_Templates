@@ -4,10 +4,10 @@
     <option name="connections">
       <list>
         <IlluminatedCloudConnection>
-          <option name="connectionName" value="Flow_Tool_Kit_Templates" />
+          <option name="connectionName" value="Flow_Tool_Kit_Templates__temps" />
           <option name="connectionType" value="SFDX" />
           <option name="defaultModuleName" value="Flow_Tool_Kit_Templates" />
-          <option name="offlineSymbolTablePath" value="$PROJECT_DIR$/IlluminatedCloud/Flow_Tool_Kit_Templates/OfflineSymbolTable.zip" />
+          <option name="offlineSymbolTablePath" value="$PROJECT_DIR$/IlluminatedCloud/Flow_Tool_Kit_Templates__temps/OfflineSymbolTable.zip" />
         </IlluminatedCloudConnection>
       </list>
     </option>

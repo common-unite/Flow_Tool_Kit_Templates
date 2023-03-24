@@ -3,7 +3,7 @@
   <component name="FacetManager">
     <facet type="IlluminatedCloud" name="Illuminated Cloud">
       <configuration>
-        <option name="connectionName" value="Flow_Tool_Kit_Templates" />
+        <option name="connectionName" value="Flow_Tool_Kit_Templates__temps" />
         <option name="connectionType" value="SFDX" />
       </configuration>
     </facet>
@@ -16,7 +16,7 @@
       <excludeFolder url="file://$MODULE_DIR$/.sfdx" />
       <excludeFolder url="file://$MODULE_DIR$/.sf" />
     </content>
-    <orderEntry type="jdk" jdkName="IlluminatedCloud (Flow_Tool_Kit_Templates/Flow_Tool_Kit_Templates)" jdkType="IlluminatedCloud" />
+    <orderEntry type="jdk" jdkName="IlluminatedCloud (Flow_Tool_Kit_Templates/Flow_Tool_Kit_Templates__temps)" jdkType="IlluminatedCloud" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

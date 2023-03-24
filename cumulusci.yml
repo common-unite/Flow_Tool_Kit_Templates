@@ -4,6 +4,8 @@ project:
     package:
         name: Flow_Tool_Kit_Templates
         api_version: '57.0'
+    dependencies:
+        - github: 'https://github.com/common-unite/Flow_Tool_Kit_Public'
     git:
     source_format: sfdx
 
