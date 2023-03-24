@@ -1,0 +1,24 @@
+minimum_cumulusci_version: '3.74.0'
+project:
+    name: Flow_Tool_Kit_Templates
+    package:
+        name: Flow_Tool_Kit_Templates
+        api_version: '57.0'
+    git:
+    source_format: sfdx
+
+tasks:
+    robot:
+        options:
+            suites: robot/Flow_Tool_Kit_Templates/tests
+            options:
+                outputdir: robot/Flow_Tool_Kit_Templates/results
+
+    robot_testdoc:
+        options:
+            path: robot/Flow_Tool_Kit_Templates/tests
+            output: robot/Flow_Tool_Kit_Templates/doc/Flow_Tool_Kit_Templates_tests.html
+
+    run_tests:
+        options:
+            required_org_code_coverage_percent: 75
