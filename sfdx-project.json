@@ -3,6 +3,18 @@
     {
       "path": "force-app",
       "default": true
+    },
+    {
+      "path": "unpackaged/force-app-objects",
+      "default": false
+    },
+    {
+      "path": "unpackaged/templates/global-account-address",
+      "default": false
+    },
+    {
+      "path": "unpackaged/profiles/force-app",
+      "default": false
     }
   ],
   "name": "Flow_Tool_Kit_Templates",

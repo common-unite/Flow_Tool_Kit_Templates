@@ -5,6 +5,7 @@
       <configuration>
         <option name="connectionName" value="Flow_Tool_Kit_Templates__temps" />
         <option name="connectionType" value="SFDX" />
+        <option name="defaultSourceRootUrl" value="file://$MODULE_DIR$/force-app/main/default" />
       </configuration>
     </facet>
   </component>
@@ -13,6 +14,9 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/config" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/force-app/main/default" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/unpackaged/force-app-objects/main/default" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/unpackaged/profiles/force-app/main/default" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/unpackaged/templates/global-account-address/main/default" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.sfdx" />
       <excludeFolder url="file://$MODULE_DIR$/.sf" />
     </content>
