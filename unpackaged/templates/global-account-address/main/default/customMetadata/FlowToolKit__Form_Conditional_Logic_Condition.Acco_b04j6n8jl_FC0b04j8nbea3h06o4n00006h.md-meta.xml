@@ -24,7 +24,7 @@
     </values>
     <values>
         <field>FlowToolKit__fieldName__c</field>
-        <value xsi:type="xsd:string">Copy_Billing_to_Shipping_Address__c</value>
+        <value xsi:type="xsd:string">cUnite_Copy_Billing_to_Shipping_Address__c</value>
     </values>
     <values>
         <field>FlowToolKit__fieldType__c</field>

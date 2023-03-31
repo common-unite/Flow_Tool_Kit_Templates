@@ -144,7 +144,7 @@
     </values>
     <values>
         <field>FlowToolKit__fieldName__c</field>
-        <value xsi:type="xsd:string">Copy_Billing_to_Shipping_Address__c</value>
+        <value xsi:type="xsd:string">cUnite_Copy_Billing_to_Shipping_Address__c</value>
     </values>
     <values>
         <field>FlowToolKit__fieldPrompt__c</field>
@@ -176,7 +176,7 @@
     </values>
     <values>
         <field>FlowToolKit__isAccessible__c</field>
-        <value xsi:type="xsd:boolean">true</value>
+        <value xsi:type="xsd:boolean">false</value>
     </values>
     <values>
         <field>FlowToolKit__labelAlignAbsoluteCenter__c</field>
@@ -336,7 +336,7 @@
     </values>
     <values>
         <field>FlowToolKit__widthLarge__c</field>
-        <value xsi:type="xsd:string">6</value>
+        <value xsi:type="xsd:string">shrink</value>
     </values>
     <values>
         <field>FlowToolKit__widthMedium__c</field>

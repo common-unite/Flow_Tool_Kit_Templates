@@ -7,7 +7,7 @@
         <locationX>176</locationX>
         <locationY>311</locationY>
         <assignmentItems>
-            <assignToReference>$Record.Copy_Billing_to_Shipping_Address__c</assignToReference>
+            <assignToReference>$Record.cUnite_Copy_Billing_to_Shipping_Address__c</assignToReference>
             <operator>Assign</operator>
             <value>
                 <booleanValue>false</booleanValue>
@@ -49,7 +49,7 @@
             </value>
         </assignmentItems>
     </assignments>
-    <description>When a User adds or updates an Account record with the Copy_Billing_to_Shipping_Address__c set to true, this flow copies over the address and resets Copy_Billing_to_Shipping_Address__c to false.</description>
+    <description>When a User adds or updates an Account record with the cUnite_Copy_Billing_to_Shipping_Address__c set to true, this flow copies over the address and resets cUnite_Copy_Billing_to_Shipping_Address__c to false.</description>
     <environments>Default</environments>
     <interviewLabel>Account (Before Insert/Update) | Copy Billing to Shipping Address {!$Flow.CurrentDateTime}</interviewLabel>
     <label>Account (Before Insert/Update) | Copy Billing to Shipping Address</label>
@@ -80,7 +80,7 @@
         </connector>
         <filterLogic>and</filterLogic>
         <filters>
-            <field>Copy_Billing_to_Shipping_Address__c</field>
+            <field>cUnite_Copy_Billing_to_Shipping_Address__c</field>
             <operator>EqualTo</operator>
             <value>
                 <booleanValue>true</booleanValue>

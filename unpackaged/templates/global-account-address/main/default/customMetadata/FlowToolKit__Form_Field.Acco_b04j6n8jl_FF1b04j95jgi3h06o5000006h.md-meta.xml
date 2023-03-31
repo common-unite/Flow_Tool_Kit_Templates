@@ -176,7 +176,7 @@
     </values>
     <values>
         <field>FlowToolKit__isAccessible__c</field>
-        <value xsi:type="xsd:boolean">true</value>
+        <value xsi:type="xsd:boolean">false</value>
     </values>
     <values>
         <field>FlowToolKit__labelAlignAbsoluteCenter__c</field>
