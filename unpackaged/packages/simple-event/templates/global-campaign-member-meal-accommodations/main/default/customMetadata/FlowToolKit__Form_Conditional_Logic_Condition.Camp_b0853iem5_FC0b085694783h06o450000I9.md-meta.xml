@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>New Condition</label>
+    <protected>false</protected>
+    <values>
+        <field>FlowToolKit__Delete__c</field>
+        <value xsi:type="xsd:boolean">false</value>
+    </values>
+    <values>
+        <field>FlowToolKit__Form__c</field>
+        <value xsi:type="xsd:string">Camp_b0853iem5_b0853iggg3h06o3l0I9xDpYAJ</value>
+    </values>
+    <values>
+        <field>FlowToolKit__Object__c</field>
+        <value xsi:type="xsd:string">CampaignMember</value>
+    </values>
+    <values>
+        <field>FlowToolKit__UserValidation__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>FlowToolKit__conditionalLogic__c</field>
+        <value xsi:type="xsd:string">Camp_b0853iem5_FLb085692cm3h06o44000I9xD</value>
+    </values>
+    <values>
+        <field>FlowToolKit__fieldName__c</field>
+        <value xsi:type="xsd:string">cUnite_Breakfast__c</value>
+    </values>
+    <values>
+        <field>FlowToolKit__fieldType__c</field>
+        <value xsi:type="xsd:string">boolean</value>
+    </values>
+    <values>
+        <field>FlowToolKit__operation__c</field>
+        <value xsi:type="xsd:string">TRUE</value>
+    </values>
+    <values>
+        <field>FlowToolKit__position__c</field>
+        <value xsi:type="xsd:double">1.0</value>
+    </values>
+    <values>
+        <field>FlowToolKit__value__c</field>
+        <value xsi:nil="true"/>
+    </values>
+</CustomMetadata>

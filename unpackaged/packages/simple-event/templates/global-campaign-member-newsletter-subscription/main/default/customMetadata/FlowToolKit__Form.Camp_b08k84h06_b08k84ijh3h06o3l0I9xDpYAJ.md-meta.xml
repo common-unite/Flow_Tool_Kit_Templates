@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Global (Newsletter Subscription)</label>
+    <protected>false</protected>
+    <values>
+        <field>FlowToolKit__Active__c</field>
+        <value xsi:type="xsd:boolean">true</value>
+    </values>
+    <values>
+        <field>FlowToolKit__Delete__c</field>
+        <value xsi:type="xsd:boolean">false</value>
+    </values>
+    <values>
+        <field>FlowToolKit__DemoRecord__c</field>
+        <value xsi:type="xsd:boolean">false</value>
+    </values>
+    <values>
+        <field>FlowToolKit__Description__c</field>
+        <value xsi:type="xsd:string">Use this component within news letter subscription campaigns</value>
+    </values>
+    <values>
+        <field>FlowToolKit__Form_Managers__c</field>
+        <value xsi:type="xsd:string">005DE00000I9xDpYAJ</value>
+    </values>
+    <values>
+        <field>FlowToolKit__Form_Object__c</field>
+        <value xsi:type="xsd:string">Campaign_Member</value>
+    </values>
+    <values>
+        <field>FlowToolKit__Theme__c</field>
+        <value xsi:type="xsd:string">FlowToolKit__Form_Default</value>
+    </values>
+    <values>
+        <field>FlowToolKit__horizontalAlign__c</field>
+        <value xsi:type="xsd:string">start</value>
+    </values>
+    <values>
+        <field>FlowToolKit__prefill__c</field>
+        <value xsi:type="xsd:string">{&quot;Description&quot;:null,&quot;cUnite_Form_Details__c&quot;:&quot;&lt;p style=\&quot;text-align: center;\&quot;&gt;&lt;strong style=\&quot;font-size: 18px; color: rgb(4, 45, 96);\&quot;&gt;Demo: How to Build Credit for First-Time Home Buyers&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Date: &lt;strong&gt;Monday, March 15th, 2023&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Time: &lt;strong&gt;8 am - 4 pm&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Location: &lt;strong&gt;Main Office Salesforce Tower&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style=\&quot;font-size: 16px; color: rgb(4, 45, 96);\&quot;&gt;Event Overview:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Join us for an informative session on building credit for first-time home buyers. This event is hosted by [Name of Nonprofit Organization] and is designed to help attendees understand the importance of credit scores and how to improve them.&lt;/p&gt;&lt;p&gt;During this session, our expert speakers will discuss the basics of credit scores, how they are calculated, and what factors affect them. You will also learn tips and tricks for improving your credit score, which is crucial for securing a mortgage with favorable terms.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Whether you&apos;re looking to buy your first home or simply want to improve your credit score, this event is for you. Our knowledgeable speakers will provide valuable insights that can help you achieve your financial goals.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style=\&quot;font-size: 16px; color: rgb(4, 45, 96);\&quot;&gt;Event Details:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Introduction and overview of credit scores&lt;/li&gt;&lt;li&gt;Understanding credit score factors&lt;/li&gt;&lt;li&gt;Tips and strategies for improving credit scores&lt;/li&gt;&lt;li&gt;Q&amp;amp;A session with expert speakers&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Don&apos;t miss this opportunity to learn how to build credit and achieve your dreams of homeownership. Register now to secure your spot at the event. We look forward to seeing you there!&lt;/p&gt;&quot;,&quot;cUnite_Expectations__c&quot;:null,&quot;cUnite_Newsletter_Frequency__c&quot;:&quot;Monthly&quot;,&quot;cUnite_Other_How_did_you_hear_about__c&quot;:null,&quot;cUnite_Statement_of_Support__c&quot;:&quot;I support the local food bank because I have personally experienced the challenges of food insecurity. When I was growing up, my family struggled to put food on the table at times, and it was a difficult and stressful experience. Now that I am in a more stable financial position, I want to do what I can to help others who are facing similar challenges. The local food bank provides essential support to families and individuals in need, and I believe that everyone should have access to healthy and nutritious food. By donating my time and resources to support this nonprofit cause, I feel like I am making a meaningful difference in my community and helping ensure everyone has access to the basic necessities of life.&quot;,&quot;cUnite_What_topics_are_you_interested_in__c&quot;:&quot;Success stories from our beneficiaries;Donor appreciation and recognition;Latest developments in our field;Advocacy efforts and action alerts;Special events and fundraising campaigns;Tips and resources for supporters to take action;Impact reports and data on the effectiveness of our programs;Volunteer opportunities and spotlights&quot;,&quot;cUnite_Interested_in_Membership__c&quot;:true}</value>
+    </values>
+    <values>
+        <field>FlowToolKit__type__c</field>
+        <value xsi:type="xsd:string">form</value>
+    </values>
+    <values>
+        <field>FlowToolKit__verticalAlign__c</field>
+        <value xsi:type="xsd:string">start</value>
+    </values>
+    <values>
+        <field>FlowToolKit__widthLarge__c</field>
+        <value xsi:type="xsd:string">12</value>
+    </values>
+    <values>
+        <field>FlowToolKit__widthMedium__c</field>
+        <value xsi:type="xsd:string">12</value>
+    </values>
+    <values>
+        <field>FlowToolKit__widthSmall__c</field>
+        <value xsi:type="xsd:string">12</value>
+    </values>
+</CustomMetadata>

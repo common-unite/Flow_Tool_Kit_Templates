@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>cUnite_How_did_you_hear_about_this__c</fullName>
+    <externalId>false</externalId>
+    <label>How did you hear about this?</label>
+    <required>false</required>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Search Engine</fullName>
+                <default>false</default>
+                <label>Search Engine</label>
+            </value>
+            <value>
+                <fullName>Google Ads</fullName>
+                <default>false</default>
+                <label>Google Ads</label>
+            </value>
+            <value>
+                <fullName>Facebook Ads</fullName>
+                <default>false</default>
+                <label>Facebook Ads</label>
+            </value>
+            <value>
+                <fullName>Youtube Ads</fullName>
+                <default>false</default>
+                <label>Youtube Ads</label>
+            </value>
+            <value>
+                <fullName>Other paid social media advertising</fullName>
+                <default>false</default>
+                <label>Other paid social media advertising</label>
+            </value>
+            <value>
+                <fullName>Facebook post/group</fullName>
+                <default>false</default>
+                <label>Facebook post/group</label>
+            </value>
+            <value>
+                <fullName>Twitter post</fullName>
+                <default>false</default>
+                <label>Twitter post</label>
+            </value>
+            <value>
+                <fullName>Instagram post/story</fullName>
+                <default>false</default>
+                <label>Instagram post/story</label>
+            </value>
+            <value>
+                <fullName>Other social media</fullName>
+                <default>false</default>
+                <label>Other social media</label>
+            </value>
+            <value>
+                <fullName>Email</fullName>
+                <default>false</default>
+                <label>Email</label>
+            </value>
+            <value>
+                <fullName>Radio</fullName>
+                <default>false</default>
+                <label>Radio</label>
+            </value>
+            <value>
+                <fullName>TV</fullName>
+                <default>false</default>
+                <label>TV</label>
+            </value>
+            <value>
+                <fullName>Newspaper</fullName>
+                <default>false</default>
+                <label>Newspaper</label>
+            </value>
+            <value>
+                <fullName>Word of mouth</fullName>
+                <default>false</default>
+                <label>Word of mouth</label>
+            </value>
+            <value>
+                <fullName>Other</fullName>
+                <default>false</default>
+                <label>Other</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

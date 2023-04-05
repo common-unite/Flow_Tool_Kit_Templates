@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>cUnite_Form_Registration_Link__c</fullName>
+    <externalId>false</externalId>
+    <formula>HYPERLINK((LEFT($Api.Enterprise_Server_URL_100,FIND(&apos;.salesforce.com/&apos;, $Api.Enterprise_Server_URL_100))+&apos;site.com/s/form?flowName=cUnite_Campaign_Global_Signup_Form&amp;recordId=&apos;+CASESAFEID(Id)+&apos;&amp;{{{Recipient.SignupFormKeys__c}}}&apos;),
+&apos;Open Form&apos;,&apos;_blank&apos;)</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Form Registration Link</label>
+    <required>false</required>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

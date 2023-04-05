@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>cUnite_Form_Confirmation_Message__c</fullName>
+    <externalId>false</externalId>
+    <inlineHelpText>This message will be displayed upon form completion.</inlineHelpText>
+    <label>Form Confirmation Message</label>
+    <length>131072</length>
+    <type>Html</type>
+    <visibleLines>25</visibleLines>
+</CustomField>
