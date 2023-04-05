@@ -13,7 +13,35 @@
       "default": false
     },
     {
-      "path": "unpackaged/profiles/force-app",
+      "path": "unpackaged/templates/global-contact-form",
+      "default": false
+    },
+    {
+      "path": "unpackaged/templates/global-lead-form",
+      "default": false
+    },
+    {
+      "path": "unpackaged/templates/global-lead-form-demographics",
+      "default": false
+    },
+    {
+      "path": "unpackaged/packages/simple-event/force-app",
+      "default": false
+    },
+    {
+      "path": "unpackaged/packages/simple-event/templates/global-campaign-member-meal-accommodations",
+      "default": false
+    },
+    {
+      "path": "unpackaged/packages/simple-event/templates/global-campaign-member-newsletter-subscription",
+      "default": false
+    },
+    {
+      "path": "unpackaged/packages/simple-event/templates/global-campaign-member-survey-questions",
+      "default": false
+    },
+    {
+      "path": "unpackaged/profiles",
       "default": false
     }
   ],

@@ -9,6 +9,15 @@ project:
     git:
     source_format: sfdx
 
+sources:
+
+    source_flowtoolkit:
+        github: 'https://github.com/common-unite/Flow_Tool_Kit_Public'
+
+    source_DuplicateCheck:
+        github: 'https://github.com/common-unite/Flow-Duplicate-Checker-Public'
+
+
 tasks:
     robot:
         options:

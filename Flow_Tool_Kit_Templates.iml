@@ -15,8 +15,15 @@
       <sourceFolder url="file://$MODULE_DIR$/config" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/force-app/main/default" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/unpackaged/force-app-objects/main/default" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/unpackaged/profiles/force-app/main/default" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/unpackaged/templates/global-account-address/main/default" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/unpackaged/templates/global-contact-form/main/default" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/unpackaged/templates/global-lead-form/main/default" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/unpackaged/templates/global-lead-form-demographics/main/default" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/unpackaged/packages/simple-event/force-app/main/default" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/unpackaged/packages/simple-event/templates/global-campaign-member-meal-accommodations/main/default" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/unpackaged/packages/simple-event/templates/global-campaign-member-newsletter-subscription/main/default" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/unpackaged/packages/simple-event/templates/global-campaign-member-survey-questions/main/default" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/unpackaged/profiles/main/default" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.sfdx" />
       <excludeFolder url="file://$MODULE_DIR$/.sf" />
     </content>
