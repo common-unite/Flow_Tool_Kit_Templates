@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>cUnite_General_Suggestions_or_Feedback__c</fullName>
+    <externalId>false</externalId>
+    <inlineHelpText>Do you have any suggestions or feedback for our organization?</inlineHelpText>
+    <label>General Suggestions or Feedback</label>
+    <length>32768</length>
+    <type>LongTextArea</type>
+    <visibleLines>3</visibleLines>
+</CustomField>

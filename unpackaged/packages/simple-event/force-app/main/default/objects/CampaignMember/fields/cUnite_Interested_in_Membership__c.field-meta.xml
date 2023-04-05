@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>cUnite_Interested_in_Membership__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Are you Interested in becoming a member of our organization?</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Are you Interested in becoming a member of our organization?</inlineHelpText>
+    <label>Interested in Membership</label>
+    <type>Checkbox</type>
+</CustomField>
